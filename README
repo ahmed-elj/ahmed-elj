@@ -1,53 +1,74 @@
-# Hi, I'm Elj Ahmed 👋
-**UI/UX and Backend Developer**  
-**Network Security Specialist**
-Welcome to my GitHub profile! I'm a highly motivated professional passionate about network security and IT systems development. With a strong academic background and practical experience in both cybersecurity and full-stack development, I focus on securing networks and optimizing system performance while solving complex technical issues.
+# Hi there 👋, I'm ELJ Ahmed
+
+Full-stack developer and cybersecurity specialist from Tunisia, focused on secure application development and network security.
+
+## 🏆 Certifications & Licenses
+
+### CISCO Certifications
+- **CISCO Ethical Hacker**
+  - Expertise in penetration testing
+  - Cloud and IoT security vulnerability assessment
+  - Wireless network security analysis
+  - Information gathering and vulnerability scanning
+
+### CCNA Certifications
+- **CCNA v7 - Introduction to Networks**
+  - Physical and logical network topologies
+  - Switch configuration
+  - Data communication protocols
+  - OSI model implementation
+  
+- **CCNA v7 - Switching, Routing, and Wireless Essentials**
+  - VLAN and inter-VLAN configuration
+  - Network security implementation
+  - IPv4/IPv6 routing protocols
+  - Advanced switching concepts
+
+## 🔧 Technical Skills
+
+- **Backend Development**: Python, C++, C#, JavaScript
+- **Frontend**: HTML, TypeScript, Angular
+- **Database Management**: SQL, MongoDB
+- **DevOps & Tools**: Docker, Visual Studio, Git
+- **Network Security**: Cisco Packet Tracer, VirtualBox
+
+## 💼 Professional Experience
+
+### Network Security Projects
+- Implemented comprehensive network security solutions
+- Developed security assessment tools
+- Conducted penetration testing and vulnerability assessments
+
+### Development Experience
+- Backend systems architecture
+- Full-stack application development
+- Network monitoring and optimization
+
+## 🎓 Education
+
+- **Master's in Network System Security** (2022-Present)
+  - Network Security
+  - Cybersecurity Optimization
+  - Advanced Data Security
+
+- **Licence in Industrial IT : Maintenance of IT systemes**
+  - microcontroller architecture
+  - Data Transmission
+  - network architecture and protocols
+  - PLC and discrete control
+
+- **Bachelor's in Computer Science** (2016-2018)
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elj-ahmed)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eljahmed)
+
+## 🌍 Languages
+
+- Arabic: Native
+- English: Professional
+- French: Intermediate
+
 ---
-## 🔧 **Technical Skills**
-- **Backend Development**: Expertise in creating secure and scalable backends with programming languages like C#, C++, Python, Java, and Typescript.
-- **Web Development**: Skilled in HTML, CSS, JavaScript, Angular, and web design adaptation.
-- **Network Security**: Experienced in penetration testing, network configuration, and resolving IT security issues.
-- **Troubleshooting Hardware**: Knowledge in resolving hardware and cabling issues in network infrastructures.
-- **Application Design**: Adept in designing Windows applications and working with various frameworks.
-## 🛠️ **Technologies I Work With**
-- **Programming**: C#, C++, Python, Java, HTML, Typescript, Angular, SQL, CSS, JavaScript
-- **Operating Systems**: Windows OS, Linux (Ubuntu)
-- **Virtualization**: VirtualBox, Docker
-- **Development Tools**: Git, GitHub, VS Code, Visual Studio, Blender (Modeling), Adobe Suite (Premiere, Photoshop)
-- **Networking Tools**: Cisco Packet Tracer, troubleshooting VLANs, inter-VLAN, and IPv4/IPv6 configurations
----
-## 🎓 **Certifications**
-- **CISCO Ethical Hacker**: Expertise in penetration testing, vulnerability analysis for cloud, mobile, IoT, and industrial systems.
-- **CCNA7: Introduction aux réseaux**: In-depth knowledge of switch configuration, network protocols, and routing layer setups for IPv4/IPv6.
-- **CCNA7: Bases de la communication, routage et technologies sans fil**: Advanced routing and wireless communication technologies with VLAN and EtherChannel troubleshooting.
----
-## 📚 **Education**
-- **Master in Network System Security**  
-  *Faculté de Science Gabès*  
-  _2023 - Present_  
-  Focus areas: Wireless Network Security, Cybersecurity, Linux, CCNA3 Certification, Huawei Certification, Advanced Data Security.
-- **Licence en Informatique Industrielle : Maintenance des systèmes IT**
-  *ISSAT Mateur*  
-  _2018 - 2021_  
-  Specializations: Event programming, microcontroller architecture, transmission networks, PLC, and discrete control.
-- **Bachelor in IT Systems Engineering**  
-  *lycée Mohammed Ali Ennabi Ras Jebel*
-  _2016 - 2018_
----
-## 🏢 **Professional Experience**
-### PFE Internship at **BULGIN Tunisia**
-- **Maintenance Task Automation**: Developed a GM/AO application in C# (WinForm Framework) to automate weekly machine maintenance tasks.
-- **Internship Extension**: Continued developing and enhancing the same system for machine maintenance optimization.
----
-## 🌐 **Languages**
-- **Arabic**: Native
-- **English**: Excellent
-- **French**: Proficient
----
-## 🎯 **Interests**
-- Artificial Intelligence & Prompt Engineering
-- Technological Research
-- Art, 3D modeling, and Music
----
-## 📫 **How to reach me**
-- 📧 Email: eljahmed40@gmail.com
+*"Securing networks and building robust applications with a security-first mindset"*
