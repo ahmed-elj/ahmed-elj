@@ -1,73 +1,111 @@
-# Hi there 👋, I'm ELJ Ahmed
-
-Full-stack developer and cybersecurity specialist from Tunisia, focused on secure application development and network security.
-
-## 🏆 Certifications & Licenses
-
-### CISCO Certifications
-- **CISCO Ethical Hacker**
-  - Expertise in penetration testing
-  - Cloud and IoT security vulnerability assessment
-  - Wireless network security analysis
-  - Information gathering and vulnerability scanning
-
-### CCNA Certifications
-- **CCNA v7 - Introduction to Networks**
-  - Physical and logical network topologies
-  - Switch configuration
-  - Data communication protocols
-  - OSI model implementation
+<div align="center">
+  <h1>Hi there 👋, I'm ELJ Ahmed</h1>
+  <p><em>Full-stack developer and cybersecurity specialist from Tunisia</em></p>
+  <p>Focused on secure application development and network security</p>
   
-- **CCNA v7 - Switching, Routing, and Wireless Essentials**
-  - VLAN and inter-VLAN configuration
-  - Network security implementation
-  - IPv4/IPv6 routing protocols
-  - Advanced switching concepts
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</div>
 
-## 🔧 Technical Skills
+<div align="left">
+  <h2>🏆 Certifications & Licenses</h2>
 
-- **Backend Development**: Python, C++, C#, JavaScript
-- **Frontend**: HTML, TypeScript, Angular
-- **Database Management**: SQL, MongoDB
-- **DevOps & Tools**: Docker, Visual Studio, Git
-- **Network Security**: Cisco Packet Tracer, VirtualBox
+  <details open>
+    <summary><b>CISCO Certifications</b></summary>
+    <br/>
+    <div>
+      <h3>🔐 CISCO Ethical Hacker</h3>
+      <ul>
+        <li>Expertise in penetration testing</li>
+        <li>Cloud and IoT security vulnerability assessment</li>
+        <li>Wireless network security analysis</li>
+        <li>Information gathering and vulnerability scanning</li>
+      </ul>
+    </div>
+  </details>
 
-## 💼 Professional Experience
+  <details open>
+    <summary><b>CCNA Certifications</b></summary>
+    <br/>
+    <div>
+      <h3>🌐 CCNA v7 - Introduction to Networks</h3>
+      <ul>
+        <li>Physical and logical network topologies</li>
+        <li>Switch configuration</li>
+        <li>Data communication protocols</li>
+        <li>OSI model implementation</li>
+      </ul>
+      
+      <h3>📡 CCNA v7 - Switching, Routing, and Wireless Essentials</h3>
+      <ul>
+        <li>VLAN and inter-VLAN configuration</li>
+        <li>Network security implementation</li>
+        <li>IPv4/IPv6 routing protocols</li>
+        <li>Advanced switching concepts</li>
+      </ul>
+    </div>
+  </details>
+</div>
 
-### Network Security Projects
-- Implemented comprehensive network security solutions
-- Developed security assessment tools
-- Conducted penetration testing and vulnerability assessments
+<div align="left">
+  <h2>🔧 Technical Stack</h2>
+  <table>
+    <tr>
+      <td>Backend Development</td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+      </td>
+    </tr>
+    <tr>
+      <td>Frontend</td>
+      <td>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td>DevOps & Tools</td>
+      <td>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
-### Development Experience
-- Backend systems architecture
-- Full-stack application development
-- Network monitoring and optimization
+<div align="left">
+  <h2>📚 Education</h2>
+  <details>
+    <summary><b>Master's in Network System Security (2022-Present)</b></summary>
+    <ul>
+      <li>Network Security</li>
+      <li>Cybersecurity Optimization</li>
+      <li>Advanced Data Security</li>
+    </ul>
+  </details>
+  
+  <details>
+    <summary><b>Bachelor's in Computer Science (2016-2018)</b></summary>
+  </details>
+</div>
 
-## 🎓 Education
+<div align="left">
+  <h2>🌍 Languages</h2>
+  <ul>
+    <li>Arabic: <code>Native</code></li>
+    <li>English: <code>Professional</code></li>
+    <li>French: <code>Intermediate</code></li>
+  </ul>
+</div>
 
-- **Master's in Network System Security** (2022-Present)
-  - Network Security
-  - Cybersecurity Optimization
-  - Advanced Data Security
-
-- **Licence in Industrial IT : Maintenance of IT systemes**
-  - microcontroller architecture
-  - Data Transmission
-  - network architecture and protocols
-  - PLC and discrete control
-
-- **Bachelor's in Computer Science** (2016-2018)
-
-## 📫 Connect with Me
-
-- Email: eljahmed40@gmail.com
-
-## 🌍 Languages
-
-- Arabic: Native
-- English: Professional
-- French: Intermediate
-
----
-*"Securing networks and building robust applications with a security-first mindset"*
+<div align="center">
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=eljahmed&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <br/>
+  <em>"Securing networks and building robust applications with a security-first mindset"</em>
+</div>
