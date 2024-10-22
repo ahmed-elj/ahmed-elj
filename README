@@ -1,111 +1,54 @@
-<div align="center">
-  <h1>Hi there 👋, I'm ELJ Ahmed</h1>
-  <p><em>Full-stack developer and cybersecurity specialist from Tunisia</em></p>
-  <p>Focused on secure application development and network security</p>
-  
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</div>
+github profile markdown generator logo
+GitHub Profile README Generator
+Star this repo
+21505
+Fork on GitHub
+6792
 
-<div align="left">
-  <h2>🏆 Certifications & Licenses</h2>
+back to edit
 
-  <details open>
-    <summary><b>CISCO Certifications</b></summary>
-    <br/>
-    <div>
-      <h3>🔐 CISCO Ethical Hacker</h3>
-      <ul>
-        <li>Expertise in penetration testing</li>
-        <li>Cloud and IoT security vulnerability assessment</li>
-        <li>Wireless network security analysis</li>
-        <li>Information gathering and vulnerability scanning</li>
-      </ul>
-    </div>
-  </details>
+copy-markdown
 
-  <details open>
-    <summary><b>CCNA Certifications</b></summary>
-    <br/>
-    <div>
-      <h3>🌐 CCNA v7 - Introduction to Networks</h3>
-      <ul>
-        <li>Physical and logical network topologies</li>
-        <li>Switch configuration</li>
-        <li>Data communication protocols</li>
-        <li>OSI model implementation</li>
-      </ul>
-      
-      <h3>📡 CCNA v7 - Switching, Routing, and Wireless Essentials</h3>
-      <ul>
-        <li>VLAN and inter-VLAN configuration</li>
-        <li>Network security implementation</li>
-        <li>IPv4/IPv6 routing protocols</li>
-        <li>Advanced switching concepts</li>
-      </ul>
-    </div>
-  </details>
-</div>
+download markdown
 
-<div align="left">
-  <h2>🔧 Technical Stack</h2>
-  <table>
-    <tr>
-      <td>Backend Development</td>
-      <td>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-      </td>
-    </tr>
-    <tr>
-      <td>Frontend</td>
-      <td>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white"/>
-      </td>
-    </tr>
-    <tr>
-      <td>DevOps & Tools</td>
-      <td>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white"/>
-      </td>
-    </tr>
-  </table>
-</div>
+download backup
 
-<div align="left">
-  <h2>📚 Education</h2>
-  <details>
-    <summary><b>Master's in Network System Security (2022-Present)</b></summary>
-    <ul>
-      <li>Network Security</li>
-      <li>Cybersecurity Optimization</li>
-      <li>Advanced Data Security</li>
-    </ul>
-  </details>
-  
-  <details>
-    <summary><b>Bachelor's in Computer Science (2016-2018)</b></summary>
-  </details>
-</div>
+preview
+<h1 align="center">Hi 👋, I'm Elj Ahmed</h1>
+<h3 align="center">A passionate, UI/UX and BACKEND developer AND Network Security Specialist</h3>
 
-<div align="left">
-  <h2>🌍 Languages</h2>
-  <ul>
-    <li>Arabic: <code>Native</code></li>
-    <li>English: <code>Professional</code></li>
-    <li>French: <code>Intermediate</code></li>
-  </ul>
-</div>
+- 🔭 I’m currently Studying at **Faculty of Science GABES**
 
-<div align="center">
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=eljahmed&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <br/>
-  <em>"Securing networks and building robust applications with a security-first mindset"</em>
-</div>
+- 📫 How to reach me **eljahmed40@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+
+Support 🙏
+Are you using the tool and happy with it to create your GitHub Profile?
+Your kind support keeps open-source tools like this free for others.
+tweet github profile readme generator
+Let the world know how you feel using this tool. Share with others on twitter.
+Tip💰
+Buy ko-fi for rahuldkjainBuy me a ko-fi
+Donate rahuldkjain via paypal
+Buy rahuldkjain A CoffeeBuy me a coffee
+github profile markdown generator logo
+GitHub Profile README Generator
+Pages
+Addons
+Support
+About
+More
+Github
+Releases
+Issues
+Pull Requests
+Join Community
+Discord of the community
+Developed in India 🇮🇳
+Buy Me A Coffee
