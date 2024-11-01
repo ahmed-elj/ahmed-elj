@@ -25,18 +25,6 @@
 📚 Learning: 'Perpetual Student of Technology'
 ```
 
-## 🛠️ Tech Stack
-
-<details>
-<summary>💻 Programming Languages</summary>
-<br>
-
-| Language | Proficiency | Use Cases |
-|----------|------------|-----------|
-| C# | ⭐⭐⭐⭐⭐ | Backend Development, Desktop Apps |
-| Python | ⭐⭐⭐⭐ | Security Scripts, Automation |
-| TypeScript | ⭐⭐⭐⭐ | Frontend Development |
-| C++ | ⭐⭐⭐⭐ | System Programming |
 
 ## 🛠️ Tools & Frameworks
 
