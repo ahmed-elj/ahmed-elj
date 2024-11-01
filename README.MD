@@ -56,26 +56,65 @@
 
 <div align="center">
   <h3>📚 Education & Certifications</h3>
-</div>
+</div>## 📚 Education
 
-#### 🎓 Academic Journey
-- **Master's in Network System Security** (2023 - Present)
-  - *Faculté de Science Gabes*
-  - Focus: Network Security, Cybersecurity, Wireless Security
+### 🎓 Master's in Network System Security (2023 - Present)
+**Faculty of Science Gabes**
+- Network Security
+- Cybersecurity Optimization
+- Wireless Network Security
+- Security Workshops
+- CCNA3 Certification
+- Huawei Certification
+- Linux, Encryption and Security
+- Big Data, Advanced Database
 
-- **Industrial Computing License** (2018 - 2021)
-  - *ISSAT Mateur*
-  - Focus: System Maintenance, Network Architecture
+### 🎓 Industrial Computing License: IT Systems Maintenance (2018 - 2021)
+**ISSAT Mateur**
+- C Development
+- Event Programming
+- Microcontroller Architecture
+- Network Architecture and Protocols
+- PLC and Discrete Control
 
-#### 🏅 Professional Certifications
-- **CISCO Ethical Hacker**
-  - Penetration Testing
-  - Cloud & IoT Security
-  
-- **CCNAv7**
-  - Network Configuration
-  - Protocol Management
+### 🎓 Bachelor's Degree in Computer Science (2016 - 2018)
+**Lycée Mohammed Ali Ennabi Ras Jebel**
 
+## 📜 Certifications
+
+### CCNAv7: Introduction to Networks
+- Switch configuration
+- Physical layer and data link protocols
+- Router configuration
+- IPv4 and IPv6 addressing
+- OSI model layer creation
+
+### CCNAv7: Communication Fundamentals, Routing and Wireless Technologies
+- VLAN and Inter-VLAN configuration
+- Inter-VLAN troubleshooting
+- EtherChannel troubleshooting
+- Switch security configuration
+- IPv4 and IPv6 routing
+
+### CISCO: Ethical Hacker
+- Creating penetration testing reports
+- Exploiting cloud security vulnerabilities
+- Mobile and IoT security exploitation
+- Wired and wireless network vulnerability assessment
+- Information gathering and vulnerability scanning
+
+## 💼 Professional Experience
+
+### Internship at BULGIN Tunisia - End of Studies Project
+- Developed GMAO application for machine maintenance task management
+- Built using C# (WinForm Framework) in Visual Studio
+- Implemented system for all employees
+- Duration: Final year project
+
+### Summer Internship at BULGIN Tunisia
+- Extended development of GMAO application
+- Enhanced existing features and functionality
+- Invited specifically to continue project improvement
 ---
 
 <div align="center">
