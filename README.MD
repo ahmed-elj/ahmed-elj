@@ -115,16 +115,6 @@
 - Extended development of GMAO application
 - Enhanced existing features and functionality
 - Invited specifically to continue project improvement
----
-
-<div align="center">
-  <h3>💼 Professional Experience</h3>
-</div>
-
-### BULGIN Tunisia
-- 🔹 Developed GMAO application (C# WinForm)
-- 🔹 Implemented maintenance management system
-- 🔹 Enhanced system features and functionality
 
 ---
 
