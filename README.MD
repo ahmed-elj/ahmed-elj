@@ -96,14 +96,15 @@ French    [██████░░░░] Intermediate
 
 ## 📊 Performance Metrics
 
+<!-- Replace the commented stats section with these: -->
+
 <div align="center">
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ahmed-elj&theme=react-dark)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmed-elj&theme=darkhub&no-frame=true&row=1&column=6" alt="achievements"/>
-</p>
-
+  
+  ![](https://github-readme-stats.vercel.app/api?username=ahmed-elj&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+  
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=ahmed-elj&theme=radical&hide_border=false)
+  
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-elj&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
 ## 🤝 Connect & Collaborate
