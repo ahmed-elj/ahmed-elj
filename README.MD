@@ -92,7 +92,7 @@ timeline
 - Network Architecture and Protocols
 - PLC and Discrete Control
 
-### 🎓 Bachelor's Degree in Computer Science (2016 - 2018)
+### 🎓 Bachelor's Degree in Computer Science (2018)
 **Lycée Mohammed Ali Ennabi Ras Jebel**
 
 ## 📜 Certifications
