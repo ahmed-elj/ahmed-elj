@@ -138,9 +138,12 @@ French    ████████████          Intermediate
 <div align="center">
   <h3>📊 GitHub Stats</h3>
 
-  <!-- You can add GitHub stats here using:
-  ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmed-elj&show_icons=true&theme=radical)
-  -->
+  ![](https://github-readme-stats.vercel.app/api?username=ahmed-elj&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+  
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=ahmed-elj&theme=radical&hide_border=false)
+  
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-elj&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
   <h3>🤝 Let's Connect!</h3>
   
