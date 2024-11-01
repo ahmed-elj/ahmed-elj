@@ -115,6 +115,9 @@ French    [██████░░░░] Intermediate
 [![Phone](https://img.shields.io/badge/Phone-+216_27_462_806-25D366?style=for-the-badge&logo=whatsapp)](tel:+21627462806)
 [![GitHub](https://img.shields.io/badge/GitHub-ahmed--elj-181717?style=for-the-badge&logo=github)](https://github.com/ahmed-elj)
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmed-elj&theme=darkhub&no-frame=true&row=1&column=6" alt="achievements"/>
+</p>
 </div>
 
 ---
