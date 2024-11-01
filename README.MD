@@ -38,55 +38,35 @@
 | TypeScript | ⭐⭐⭐⭐ | Frontend Development |
 | C++ | ⭐⭐⭐⭐ | System Programming |
 
-</details>
 ## 🛠️ Tools & Frameworks
 
-<details>
-<summary>💻 Development Frameworks</summary>
-<br>
+### Development Tools & Frameworks
 
-| Framework | Expertise | Use Case |
-|-----------|-----------|----------|
-| ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) | Advanced | Frontend Development |
-| ![.NET](https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white) | Advanced | Backend Development |
+| Framework | Expertise |
+|-----------|-----------|
+| ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) | Frontend Development |
+| ![.NET](https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white) | Backend Development |
 
-</details>
-
-<details>
-<summary>🛠️ Development Tools</summary>
-<br>
-
-| Tool | Purpose |
-|------|---------|
+| Development Tools | Purpose |
+|------------------|---------|
 | ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) | Primary IDE |
 | ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) | Code Editor |
 | ![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) | Version Control |
 | ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) | Containerization |
 
-</details>
+### Creative & Operating Systems
 
-<details>
-<summary>🎨 Design Tools</summary>
-<br>
-
-| Tool | Specialty |
-|------|-----------|
+| Design Tools | Specialty |
+|--------------|-----------|
 | ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) | Image Editing |
 | ![Adobe Premiere](https://img.shields.io/badge/Adobe%20Premiere-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) | Video Editing |
 | ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) | 3D Modeling |
 
-</details>
-
-<details>
-<summary>💼 Operating Systems</summary>
-<br>
-
-| OS | Experience |
-|----|------------|
+| Operating Systems | Experience |
+|------------------|------------|
 | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | Advanced |
 | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) | Advanced |
 
-</details>
 ## 🎓 Educational Journey
 
 <div align="center">
