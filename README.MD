@@ -39,96 +39,54 @@
 | C++ | ⭐⭐⭐⭐ | System Programming |
 
 </details>
-
 ## 🛠️ Tools & Frameworks
 
 <details>
-<summary>🎨 Frontend Development</summary>
+<summary>💻 Development Frameworks</summary>
 <br>
 
-| Technology | Expertise | Projects |
-|------------|-----------|-----------|
-| ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) | Advanced | 15+ |
-| ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white) | Advanced | 20+ |
-| ![Material UI](https://img.shields.io/badge/Material_UI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) | Intermediate | 10+ |
-| ![Tailwind](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) | Intermediate | 5+ |
+| Framework | Expertise | Use Case |
+|-----------|-----------|----------|
+| ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) | Advanced | Frontend Development |
+| ![.NET](https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white) | Advanced | Backend Development |
 
 </details>
 
 <details>
-<summary>⚙️ Backend & DevOps</summary>
+<summary>🛠️ Development Tools</summary>
 <br>
 
-| Technology | Expertise | Use Case |
-|------------|-----------|----------|
-| ![.NET](https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white) | Advanced | Enterprise Apps |
-| ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) | Advanced | Containerization |
-| ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) | Intermediate | Orchestration |
-| ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) | Intermediate | CI/CD |
+| Tool | Purpose |
+|------|---------|
+| ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) | Primary IDE |
+| ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) | Code Editor |
+| ![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) | Version Control |
+| ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) | Containerization |
 
 </details>
 
 <details>
-<summary>🔧 Development Tools</summary>
+<summary>🎨 Design Tools</summary>
 <br>
 
-| Category | Tools |
-|----------|-------|
-| **IDE & Editors** | ![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual_Studio-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![Sublime Text](https://img.shields.io/badge/Sublime_Text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important) |
-| **Version Control** | ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) |
-| **Package Managers** | ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Yarn](https://img.shields.io/badge/Yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) |
+| Tool | Specialty |
+|------|-----------|
+| ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) | Image Editing |
+| ![Adobe Premiere](https://img.shields.io/badge/Adobe%20Premiere-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) | Video Editing |
+| ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) | 3D Modeling |
 
 </details>
 
 <details>
-<summary>🗄️ Databases</summary>
+<summary>💼 Operating Systems</summary>
 <br>
 
-| Database | Type | Expertise |
-|----------|------|-----------|
-| ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) | NoSQL | Advanced |
-| ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) | SQL | Advanced |
-| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) | SQL | Intermediate |
-| ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) | In-Memory | Intermediate |
+| OS | Experience |
+|----|------------|
+| ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | Advanced |
+| ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) | Advanced |
 
 </details>
-
-<details>
-<summary>🔒 Security Tools</summary>
-<br>
-
-| Category | Tools |
-|----------|-------|
-| **Network Security** | ![Wireshark](https://img.shields.io/badge/Wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-%23000000.svg?style=for-the-badge&logo=nmap&logoColor=white) |
-| **Penetration Testing** | ![Metasploit](https://img.shields.io/badge/Metasploit-%23E34F26.svg?style=for-the-badge&logo=metasploit&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-%23FF6C37.svg?style=for-the-badge&logo=burp-suite&logoColor=white) |
-| **System Security** | ![Kali Linux](https://img.shields.io/badge/Kali_Linux-%23557C94.svg?style=for-the-badge&logo=kali-linux&logoColor=white) ![SELinux](https://img.shields.io/badge/SELinux-%23000000.svg?style=for-the-badge&logo=selinux&logoColor=white) |
-
-</details>
-
-<details>
-<summary>📱 Mobile Development</summary>
-<br>
-
-| Framework | Platform | Experience |
-|-----------|----------|------------|
-| ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | Cross-Platform | Intermediate |
-| ![Xamarin](https://img.shields.io/badge/Xamarin-%233498DB.svg?style=for-the-badge&logo=xamarin&logoColor=white) | Cross-Platform | Advanced |
-| ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white) | Cross-Platform | Basic |
-
-</details>
-
-<details>
-<summary>☁️ Cloud Platforms</summary>
-<br>
-
-| Platform | Services | Level |
-|----------|----------|-------|
-| ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) | EC2, S3, Lambda | Intermediate |
-| ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) | App Service, Functions | Advanced |
-| ![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) | Compute Engine | Basic |
-
-</details>
-
 ## 🎓 Educational Journey
 
 <div align="center">
