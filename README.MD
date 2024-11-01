@@ -80,7 +80,10 @@
 ### 🎓 Bachelor's Degree in Computer Science (2016 - 2018)
 **Lycée Mohammed Ali Ennabi Ras Jebel**
 
-## 📜 Certifications
+
+<div align="center">
+  <h3>📜 Certifications</h3>
+</div>
 
 ### CCNAv7: Introduction to Networks
 - Switch configuration
@@ -103,7 +106,9 @@
 - Wired and wireless network vulnerability assessment
 - Information gathering and vulnerability scanning
 
-## 💼 Professional Experience
+<div align="center">
+  <h3>💼 Professional Experience</h3>
+</div>
 
 ### Internship at BULGIN Tunisia - End of Studies Project
 - Developed GMAO application for machine maintenance task management
